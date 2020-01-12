@@ -20,6 +20,8 @@ $ conda install tensorflow
 
 $ conda install -c conda-forge google-api-python-client
 
+$ conda install -c conda-forge oauth2client
+
 $ conda install joblib
 
 $ conda install tensorflow-gpu # if using Nvidia GPU
