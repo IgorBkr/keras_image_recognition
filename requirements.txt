@@ -2,7 +2,7 @@ numpy
 pip>=9.0.0
 pandas
 matplotlib
-Keras==2.1.6
+Keras==2.13.1
 h5py
 pillow
 scikit-learn
